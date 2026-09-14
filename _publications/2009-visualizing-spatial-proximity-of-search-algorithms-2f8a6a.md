@@ -7,7 +7,7 @@ excerpt: 'Advances in Neural Information Processing Systems (NIPS) Workshop on L
 date: 2009-01-01
 venue: 'Advances in Neural Information Processing Systems (NIPS) Workshop on Learning with Ordering (poster abstract)'
 paperurl: ''
-citation: 'M. Sun, G. Lebanon, K. Collins-Thompson. "Visualizing Spatial Proximity of Search Algorithms." Advances in Neural Information Processing Systems (NIPS) Workshop on Learning with Ordering (poster abstract), pp. 1–2, 2009.'
+citation: 'M. Sun, G. Lebanon, K. Collins-Thompson. Advances in Neural Information Processing Systems (NIPS) Workshop on Learning with Ordering (poster abstract), pp. 1–2, 2009.'
 ---
 
 **Authors:** M. Sun, G. Lebanon, K. Collins-Thompson

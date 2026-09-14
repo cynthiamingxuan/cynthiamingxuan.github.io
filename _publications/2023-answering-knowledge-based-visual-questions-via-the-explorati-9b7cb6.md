@@ -7,7 +7,7 @@ excerpt: 'Pattern Recognition (2023)'
 date: 2023-01-01
 venue: 'Pattern Recognition'
 paperurl: ''
-citation: 'L. Song, J. Li, J. Liu, Y. Yang, X. Shang, M. Sun. "Answering Knowledge-Based Visual Questions via the Exploration of Question Purpose." Pattern Recognition, vol. 133, pp. 109015, 2023.'
+citation: 'L. Song, J. Li, J. Liu, Y. Yang, X. Shang, M. Sun. Pattern Recognition, vol. 133, pp. 109015, 2023.'
 ---
 
 **Authors:** L. Song, J. Li, J. Liu, Y. Yang, X. Shang, M. Sun

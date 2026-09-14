@@ -7,7 +7,7 @@ excerpt: 'Proc. of the IEEE Global Communications Conference (GLOBECOM) (2017)'
 date: 2017-01-01
 venue: 'Proc. of the IEEE Global Communications Conference (GLOBECOM)'
 paperurl: ''
-citation: 'N. Wu, X. Zhou, M. Sun. "Secure Transmission in Heterogeneous Networks: A Two-level Stackelberg Game Approach." Proc. of the IEEE Global Communications Conference (GLOBECOM), pp. 1–6, 2017.'
+citation: 'N. Wu, X. Zhou, M. Sun. Proc. of the IEEE Global Communications Conference (GLOBECOM), pp. 1–6, 2017.'
 ---
 
 **Authors:** N. Wu, X. Zhou, M. Sun

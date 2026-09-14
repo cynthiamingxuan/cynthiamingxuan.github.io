@@ -7,7 +7,7 @@ excerpt: 'Proc. of the Annual Conference on Neural Information Processing System
 date: 2012-01-01
 venue: 'Proc. of the Annual Conference on Neural Information Processing Systems (NIPS)'
 paperurl: ''
-citation: 'J. Lee, M. Sun, S. Kim, G. Lebanon. "Automatic Feature Induction for Stagewise Collaborative Filtering." Proc. of the Annual Conference on Neural Information Processing Systems (NIPS), pp. 314–322, 2012.'
+citation: 'J. Lee, M. Sun, S. Kim, G. Lebanon. Proc. of the Annual Conference on Neural Information Processing Systems (NIPS), pp. 314–322, 2012.'
 ---
 
 **Authors:** J. Lee, M. Sun, S. Kim, G. Lebanon

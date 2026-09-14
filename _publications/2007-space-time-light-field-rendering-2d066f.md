@@ -7,7 +7,7 @@ excerpt: 'IEEE Transactions on Visualization and Computer Graphics (TVCG) (2007)
 date: 2007-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG)'
 paperurl: ''
-citation: 'H. Wang, M. Sun, R. Yang. "Space-Time Light Field Rendering." IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 13, no. 4, pp. 697–710, 2007.'
+citation: 'H. Wang, M. Sun, R. Yang. IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 13, no. 4, pp. 697–710, 2007.'
 ---
 
 **Authors:** H. Wang, M. Sun, R. Yang

@@ -7,7 +7,7 @@ excerpt: 'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 date: 2009-01-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)'
 paperurl: ''
-citation: 'M. Sun, Z. Liu, J. Qiu, Z. Zhang, M. Sinclair. "Active Lighting for Video Conferencing." IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 19, no. 12, pp. 1819–1829, 2009.'
+citation: 'M. Sun, Z. Liu, J. Qiu, Z. Zhang, M. Sinclair. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 19, no. 12, pp. 1819–1829, 2009.'
 ---
 
 **Authors:** M. Sun, Z. Liu, J. Qiu, Z. Zhang, M. Sinclair

@@ -7,7 +7,7 @@ excerpt: 'Journal of Terramechanics (2018)'
 date: 2018-01-01
 venue: 'Journal of Terramechanics'
 paperurl: ''
-citation: 'Z. Zhang, C. Sun, R. Bridgelall, M. Sun. "Road Profile Reconstruction Using Connected Vehicle Responses and Wavelet Analysis." Journal of Terramechanics, vol. 80, pp. 21–30, 2018.'
+citation: 'Z. Zhang, C. Sun, R. Bridgelall, M. Sun. Journal of Terramechanics, vol. 80, pp. 21–30, 2018.'
 ---
 
 **Authors:** Z. Zhang, C. Sun, R. Bridgelall, M. Sun

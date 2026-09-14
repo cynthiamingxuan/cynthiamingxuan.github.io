@@ -7,7 +7,7 @@ excerpt: 'Proc. of the ACM International Conference on Modeling, Analysis and Si
 date: 2017-01-01
 venue: 'Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM)'
 paperurl: ''
-citation: 'M. Sun, C. Li, H. Zha. "Inferring Private Demographics of New Users in Recommender Systems." Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM), pp. 237–244, 2017.'
+citation: 'M. Sun, C. Li, H. Zha. Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM), pp. 237–244, 2017.'
 ---
 
 **Authors:** M. Sun, C. Li, H. Zha

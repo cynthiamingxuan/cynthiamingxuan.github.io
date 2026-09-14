@@ -7,7 +7,7 @@ excerpt: 'Proc. of the ACM International Conference on Web Search and Data Minin
 date: 2013-01-01
 venue: 'Proc. of the ACM International Conference on Web Search and Data Mining (WSDM)'
 paperurl: ''
-citation: 'M. Sun, F. Li, J. Lee, K. Zhou, G. Lebanon, H. Zha. "Learning Multiple-question Decision Trees for Cold-Start Recommendation." Proc. of the ACM International Conference on Web Search and Data Mining (WSDM), pp. 445–454, 2013.'
+citation: 'M. Sun, F. Li, J. Lee, K. Zhou, G. Lebanon, H. Zha. Proc. of the ACM International Conference on Web Search and Data Mining (WSDM), pp. 445–454, 2013.'
 ---
 
 **Authors:** M. Sun, F. Li, J. Lee, K. Zhou, G. Lebanon, H. Zha

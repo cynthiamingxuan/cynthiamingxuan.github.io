@@ -7,7 +7,7 @@ excerpt: 'ArXiv Report 1205.3193 (2012)'
 date: 2012-01-01
 venue: 'ArXiv Report 1205.3193'
 paperurl: ''
-citation: 'J. Lee, M. Sun, G. Lebanon. "A Comparative Study of Collaborative Filtering Algorithms." ArXiv Report 1205.3193, 2012.'
+citation: 'J. Lee, M. Sun, G. Lebanon. ArXiv Report 1205.3193, 2012.'
 ---
 
 **Authors:** J. Lee, M. Sun, G. Lebanon

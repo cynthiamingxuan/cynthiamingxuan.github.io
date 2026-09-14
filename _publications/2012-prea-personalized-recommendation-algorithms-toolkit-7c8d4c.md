@@ -7,7 +7,7 @@ excerpt: 'Journal of Machine Learning Research (JMLR) (2012)'
 date: 2012-01-01
 venue: 'Journal of Machine Learning Research (JMLR)'
 paperurl: ''
-citation: 'J. Lee, M. Sun, G. Lebanon. "PREA: Personalized Recommendation Algorithms Toolkit." Journal of Machine Learning Research (JMLR), vol. 13, no. 1, pp. 2699–2703, 2012.'
+citation: 'J. Lee, M. Sun, G. Lebanon. Journal of Machine Learning Research (JMLR), vol. 13, no. 1, pp. 2699–2703, 2012.'
 ---
 
 **Authors:** J. Lee, M. Sun, G. Lebanon

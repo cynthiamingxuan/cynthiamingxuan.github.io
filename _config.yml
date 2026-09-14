@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mingxuan Sun / SEU"
+title                    : "Mingxuan Sun"
 title_separator          : "-"
 name                     : &name "Mingxuan Sun"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Mingxuan Sun's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cynthiamingxuan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "cynthiamingxuan/cynthiamingxuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mingxuan Sun"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her" nan 
   bio              : "Professor at SEU. Trustworthy machine learning, with a focus on fairness, robustness, and privacy."
-  location         : "Nanjing，Jiangsu"
+  location         : "Nanjing, Jiangsu"
   employer         : "Southeast University, China"
   uri              : # URL
   email            : "msun@seu.edu.cn" 
@@ -36,6 +36,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1oQ3NnEAAAAJ"
+  dblp             : "https://dblp.org/pid/57/988-1.html"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
@@ -51,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"cynthiamingxuan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -125,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

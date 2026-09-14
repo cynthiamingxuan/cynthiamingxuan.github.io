@@ -7,7 +7,7 @@ excerpt: 'Proc. of the ACM International Conference on Modeling, Analysis and Si
 date: 2017-01-01
 venue: 'Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM)'
 paperurl: ''
-citation: 'M. Sun, G. Xu, J. Zhang, D. W. Kim. "Tracking You through DNS Traffic: Linking User Sessions by Clustering with Dirichlet Mixture Model." Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM), pp. 303–310, 2017.'
+citation: 'M. Sun, G. Xu, J. Zhang, D. W. Kim. Proc. of the ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM), pp. 303–310, 2017.'
 ---
 
 **Authors:** M. Sun, G. Xu, J. Zhang, D. W. Kim

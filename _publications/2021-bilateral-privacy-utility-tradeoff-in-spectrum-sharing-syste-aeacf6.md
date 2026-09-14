@@ -7,7 +7,7 @@ excerpt: 'IEEE Transactions on Wireless Communications (2021)'
 date: 2021-01-01
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: ''
-citation: 'M. Liu, X. Zhou, M. Sun. "Bilateral Privacy-Utility Tradeoff in Spectrum Sharing Systems: A Game-Theoretic Approach." IEEE Transactions on Wireless Communications, vol. 20, no. 8, pp. 5144–5158, 2021.'
+citation: 'M. Liu, X. Zhou, M. Sun. IEEE Transactions on Wireless Communications, vol. 20, no. 8, pp. 5144–5158, 2021.'
 ---
 
 **Authors:** M. Liu, X. Zhou, M. Sun

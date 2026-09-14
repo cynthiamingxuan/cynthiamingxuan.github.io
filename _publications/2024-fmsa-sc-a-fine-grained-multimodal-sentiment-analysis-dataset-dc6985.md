@@ -3,15 +3,15 @@ title: "FMSA-SC: A Fine-Grained Multimodal Sentiment Analysis Dataset Based on S
 collection: publications
 category: manuscripts
 permalink: /publication/2024-fmsa-sc-a-fine-grained-multimodal-sentiment-analysis-dataset-dc6985
-excerpt: 'IEEE Trans. Multim. (2024)'
+excerpt: 'IEEE Transactions on Multimedia (2024)'
 date: 2024-01-01
-venue: 'IEEE Trans. Multim.'
+venue: 'IEEE Transactions on Multimedia'
 paperurl: ''
-citation: 'L. Song, S. Chen, Z. Meng, M. Sun, X. Shang. "FMSA-SC: A Fine-Grained Multimodal Sentiment Analysis Dataset Based on Stock Comment Videos." IEEE Trans. Multim., vol. 26, pp. 7294–7306, 2024.'
+citation: 'L. Song, S. Chen, Z. Meng, M. Sun, X. Shang. IEEE Transactions on Multimedia, vol. 26, pp. 7294–7306, 2024.'
 ---
 
 **Authors:** L. Song, S. Chen, Z. Meng, M. Sun, X. Shang
 
-**Venue:** IEEE Trans. Multim. (2024)
+**Venue:** IEEE Transactions on Multimedia (2024)
 
 

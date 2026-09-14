@@ -7,7 +7,7 @@ excerpt: 'Proc. of the ACM SIGKDD International Conference on Knowledge Discover
 date: 2014-01-01
 venue: 'Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)'
 paperurl: ''
-citation: 'K. Kapoor, M. Sun, J. Srivastava, T. Ye. "A Hazard Based Approach to User Return Time Prediction." Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 1719–1728, 2014.'
+citation: 'K. Kapoor, M. Sun, J. Srivastava, T. Ye. Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 1719–1728, 2014.'
 ---
 
 **Authors:** K. Kapoor, M. Sun, J. Srivastava, T. Ye

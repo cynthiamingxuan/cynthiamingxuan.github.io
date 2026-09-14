@@ -111,7 +111,8 @@ def generate_markdown(entry):
     filepath = os.path.join(OUTPUT_DIR, filename)
 
     # 构建 citation 字符串
-    citation = f'{authors}. "{title}."'
+    #citation = f'{authors}. "{title}."'
+    citation = f'{authors}.'
     if venue:
         citation += f" {venue},"
     if volume:

@@ -7,7 +7,7 @@ excerpt: 'Proc. of the IEEE Annual Consumer Communications and Networking Confer
 date: 2019-01-01
 venue: 'Proc. of the IEEE Annual Consumer Communications and Networking Conference (CCNC)'
 paperurl: ''
-citation: 'F. Zhang, X. Zhou, M. Sun. "Multi-Level Channel Valuations and Coalitional Subgames in Spatial Spectrum Reuse." Proc. of the IEEE Annual Consumer Communications and Networking Conference (CCNC), pp. 1–6, 2019.'
+citation: 'F. Zhang, X. Zhou, M. Sun. Proc. of the IEEE Annual Consumer Communications and Networking Conference (CCNC), pp. 1–6, 2019.'
 ---
 
 **Authors:** F. Zhang, X. Zhou, M. Sun

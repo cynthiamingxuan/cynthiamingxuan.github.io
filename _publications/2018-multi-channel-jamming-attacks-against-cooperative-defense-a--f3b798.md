@@ -7,7 +7,7 @@ excerpt: 'Proc. of the IEEE International Conference on Communications (ICC) (20
 date: 2018-01-01
 venue: 'Proc. of the IEEE International Conference on Communications (ICC)'
 paperurl: ''
-citation: 'N. Wu, X. Zhou, M. Sun. "Multi-Channel Jamming Attacks against Cooperative Defense: A Two-Level Stackelberg Game Approach." Proc. of the IEEE International Conference on Communications (ICC), pp. 1–6, 2018.'
+citation: 'N. Wu, X. Zhou, M. Sun. Proc. of the IEEE International Conference on Communications (ICC), pp. 1–6, 2018.'
 ---
 
 **Authors:** N. Wu, X. Zhou, M. Sun

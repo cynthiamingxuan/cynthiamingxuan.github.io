@@ -8,12 +8,12 @@ redirect_from:
 ---
 I am Mingxuan Sun, a Professor in the School of Computer Science and Engineering at Southeast University (SEU), China.
 
-I received my B.E. from the Chu Kochen Honors College at Zhejiang University and my Ph.D. in Computer Science from Georgia Institute of Technology. After completing my Ph.D., I joined Pandora Media as a Senior Scientist. I then joined the faculty at Louisiana State University, where I was promoted to Associate Professor with tenure.
+I received my B.S. from the Chu Kochen Honors College at Zhejiang University and my Ph.D. in Computer Science from Georgia Institute of Technology. After completing my Ph.D., I joined Pandora Media as a Senior Scientist. I then joined the faculty at Louisiana State University, where I was promoted to Associate Professor with tenure.
 
-My primary research interests lie in trustworthy machine learning, with a focus on fairness, robustness, and privacy preservation. I am a recipient of the NSF CAREER Award and the 2021 LSU Rising Star Award (one of only 10 honorees university-wide). I have supervised Ph.D. and M.S. graduates who have joined leading technology companies such as Amazon, Meta, and Baidu.
+My primary research interests lie in trustworthy machine learning, with a focus on fairness, robustness, and privacy. I am a recipient of the NSF CAREER Award and the 2021 LSU Rising Star Award (one of only 10 honorees university-wide). I have supervised Ph.D. and M.S. graduates who have joined leading technology companies such as Amazon, Meta, and Baidu.
 
 
-I always look for motivated students to join my research group. For Fall 2027, we have several Ph.D. openings and M.S. openings available; early contact is strongly encouraged. Please feel free to send your CV to [my email](mailto:msun@seu.edu.cn).
+I always look for motivated students to join my research group. For Fall 2027, we have several Ph.D. and M.S. positions available; early contact is strongly encouraged. Please feel free to send your CV to [my email](mailto:msun@seu.edu.cn).
  
 
 Education

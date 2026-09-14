@@ -7,7 +7,7 @@ excerpt: 'International Journal of Computer Vision (2021)'
 date: 2021-01-01
 venue: 'International Journal of Computer Vision'
 paperurl: ''
-citation: 'L. Song, J. Liu, M. Sun, X. Shang. "Weakly Supervised Group Mask Network for Object Detection." International Journal of Computer Vision, vol. 129, no. 3, pp. 681–702, 2021.'
+citation: 'L. Song, J. Liu, M. Sun, X. Shang. International Journal of Computer Vision, vol. 129, no. 3, pp. 681–702, 2021.'
 ---
 
 **Authors:** L. Song, J. Liu, M. Sun, X. Shang

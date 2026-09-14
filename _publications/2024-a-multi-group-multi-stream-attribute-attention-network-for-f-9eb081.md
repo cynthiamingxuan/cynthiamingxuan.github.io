@@ -7,7 +7,7 @@ excerpt: 'Neural Networks (2024)'
 date: 2024-01-01
 venue: 'Neural Networks'
 paperurl: ''
-citation: 'L. Song, X. Shang, R. Zhou, J. Liu, J. Ma, Z. Li, M. Sun. "A Multi-Group Multi-Stream Attribute Attention Network for Fine-Grained Zero-Shot Learning." Neural Networks, vol. 179, pp. 106558, 2024.'
+citation: 'L. Song, X. Shang, R. Zhou, J. Liu, J. Ma, Z. Li, M. Sun. Neural Networks, vol. 179, pp. 106558, 2024.'
 ---
 
 **Authors:** L. Song, X. Shang, R. Zhou, J. Liu, J. Ma, Z. Li, M. Sun

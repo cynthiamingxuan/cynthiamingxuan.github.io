@@ -7,7 +7,7 @@ excerpt: 'Proc. of the IEEE International Conference on Data Mining (ICDM) (2018
 date: 2018-01-01
 venue: 'Proc. of the IEEE International Conference on Data Mining (ICDM)'
 paperurl: ''
-citation: 'J. Shang, M. Sun. "Local Low-Rank Hawkes Processes for Temporal User-Item Interactions." Proc. of the IEEE International Conference on Data Mining (ICDM), pp. 427–436, 2018.'
+citation: 'J. Shang, M. Sun. Proc. of the IEEE International Conference on Data Mining (ICDM), pp. 427–436, 2018.'
 ---
 
 **Authors:** J. Shang, M. Sun

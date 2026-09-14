@@ -7,7 +7,7 @@ excerpt: 'Proc. of the International World Wide Web Conference (WWW) (2010)'
 date: 2010-01-01
 venue: 'Proc. of the International World Wide Web Conference (WWW)'
 paperurl: ''
-citation: 'M. Sun, G. Lebanon, K. Collins-Thompson. "Visualizing Differences in Web Search Algorithms Using the Expected Weighted Hoeffding Distance." Proc. of the International World Wide Web Conference (WWW), pp. 931–940, 2010.'
+citation: 'M. Sun, G. Lebanon, K. Collins-Thompson. Proc. of the International World Wide Web Conference (WWW), pp. 931–940, 2010.'
 ---
 
 **Authors:** M. Sun, G. Lebanon, K. Collins-Thompson
