@@ -1,8 +1,8 @@
 ---
-title: "Chapter 13 - Generative AI for Mobile Edge Computing"
+title: "Generative AI for Mobile Edge Computing"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-chapter-13-generative-ai-for-mobile-edge-computing-013334
+permalink: /publication/2026-generative-ai-for-mobile-edge-computing-43e747
 excerpt: 'Generative Learning for Wireless Communications (2026)'
 date: 2026-01-01
 venue: 'Generative Learning for Wireless Communications'
